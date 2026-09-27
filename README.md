@@ -96,7 +96,7 @@ What I will not do is build a decoy with denial training. That is the most
 requested service and the only one I refuse, for the whole argument of *The
 Denial Spiral*.
 
-Contact: **CONTATO-AQUI**
+Contact: yuri@t3infosecurity.com
 
 ## ⚡ Support
 
